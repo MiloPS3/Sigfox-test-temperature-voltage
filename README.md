@@ -6,3 +6,7 @@ LPWAN Sigfox modem test (WiSOL SFM10R1 SADAL1010), reads internal temperature an
 12.5 2018 Production new PCB with battery holder,PIC16LF1705 and new antenna.
 
 29.10 2018 Upgrading the program for better energy conservation.Now is consumption approx 500nA.
+
+4.3 2019 the license has expired
+
+27.11 2020 new module with license 

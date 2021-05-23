@@ -10,3 +10,5 @@ LPWAN Sigfox modem test (WiSOL SFM10R1 SADAL1010), reads internal temperature an
 4.3 2019 the license has expired
 
 27.11 2020 new module with license 
+
+23.5 2021 added Humidity and Temperature Sensor SHTC3,reduced the number of user transmitted byts from 8 to 6 (less consumption),10b temp from SFM10R1,10b temp from SHTC3,11b Voltage at the last transmission mV,10b Actual voltage mV,humidity from SHTC3
